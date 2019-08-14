@@ -1,0 +1,10 @@
+contentinspection package
+=========================
+
+Subpackages
+-----------
+
+.. toctree::
+
+	contentinspectionpolicy_stats <nssrc.com.citrix.netscaler.nitro.resource.stat.contentinspection.contentinspectionpolicy_stats>
+	contentinspectionpolicylabel_stats <nssrc.com.citrix.netscaler.nitro.resource.stat.contentinspection.contentinspectionpolicylabel_stats>

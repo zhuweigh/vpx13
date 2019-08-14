@@ -1,0 +1,8 @@
+migrate module
+==============
+
+.. automodule:: nssrc.com.citrix.netscaler.nitro.resource.config.ns.migrate
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

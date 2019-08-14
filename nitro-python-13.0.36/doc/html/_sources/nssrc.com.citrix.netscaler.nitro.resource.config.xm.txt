@@ -1,0 +1,10 @@
+xm package
+==========
+
+Subpackages
+-----------
+
+.. toctree::
+
+	xmdeployment <nssrc.com.citrix.netscaler.nitro.resource.config.xm.xmdeployment>
+	xmpackage <nssrc.com.citrix.netscaler.nitro.resource.config.xm.xmpackage>

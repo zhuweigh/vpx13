@@ -1,0 +1,8 @@
+xmpackage module
+================
+
+.. automodule:: nssrc.com.citrix.netscaler.nitro.resource.config.xm.xmpackage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

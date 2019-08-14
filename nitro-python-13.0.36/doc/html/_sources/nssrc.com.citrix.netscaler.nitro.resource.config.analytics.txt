@@ -1,0 +1,9 @@
+analytics package
+=================
+
+Subpackages
+-----------
+
+.. toctree::
+
+	analyticsprofile <nssrc.com.citrix.netscaler.nitro.resource.config.analytics.analyticsprofile>
