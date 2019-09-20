@@ -2373,7 +2373,7 @@ class lbmonitor(base_resource) :
 				else :
 					deleteresource.monitorname = resource.monitorname
 					deleteresource.type = resource.type
-					deleteresource.respcode = resource.respcode
+					#deleteresource.respcode = resource.respcode
 				return deleteresource.delete_resource(client)
 			else :
 				if type(resource[0]) != cls :
